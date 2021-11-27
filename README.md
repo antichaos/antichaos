@@ -1,13 +1,12 @@
-- 👋 Hi, I’m @antichaos
+👋 Hi, I’m @antichaos
 
-- 👀 I’m interested in ...
+👀 I’m interested in Datavisualisation, Tableau, AWS and all kinds of fun 'data' stuff
 
-- 🌱 I’m currently learning ...
+🌱 Always learning
 
-- 💞️ I’m looking to collaborate on ...
+💞️ I’m looking to collaborate on Tableau projects and Javascript/Python development
 
-📫 How to reach me ...
-- johan@antichaos.nl
+📫 Contact me at johan@antichaos.nl
 
 
 <!---
