@@ -1,6 +1,6 @@
 👋 Hi, I’m @antichaos
 
-👀 I’m interested in Datavisualisation, Tableau, AWS and all kinds of fun 'data' stuff
+👀 I’m interested in Data Visualisation, Tableau, AWS and all kinds of fun 'data' stuff
 
 🌱 Always learning
 
